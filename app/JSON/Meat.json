@@ -1,0 +1,36 @@
+[{
+  "name":"Каре",
+  "src":"Images/Meat/kare_telenka.png",
+  "weight":"200 грамм",
+  "description":"Каре молочного теленка",
+  "price":"170 грн."
+},
+  {
+    "name":"Стейк Нью-Йорк",
+    "src":"Images/Meat/steykNew-York.png",
+    "weight":"150 грамм",
+    "description":"Стейк говяжий с мраморными вкраплениями",
+    "price":"160 грн."
+  },
+  {
+    "name":"Антрекот",
+    "src":"Images/Meat/antrecot.jpg",
+    "weight":"250 грамм",
+    "description":"Филе телятины с овощами гриль",
+    "price":"109 грн."
+  },
+  {
+    "name":"Ассорти Баку",
+    "src":"Images/Meat/assorti.jpg",
+    "weight":"1000 грамм",
+    "description":"Шашлык из 6 видов мяса",
+    "price":"360 грн."
+  },
+  {
+    "name":"Шашлык из индейки",
+    "src":"Images/Meat/shashluk-indeyka.png",
+    "weight":"180 грамм",
+    "description":"Сочная индейка",
+    "price":"75 грн."
+  }
+]

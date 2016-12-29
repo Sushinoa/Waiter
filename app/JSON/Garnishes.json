@@ -1,0 +1,37 @@
+[{
+  "name":"Картофель",
+  "src":"Images/Garnishes/kartofel.jpg",
+  "weight":"250 грамм",
+  "description":"Картофель печенный в духовке с розмарином",
+  "price":"20 грн."
+},
+  {
+    "name":"Гречка",
+    "src":"Images/Garnishes/grechka_gribami.jpg",
+    "weight":"250 грамм",
+    "description":"Гречка с грибами",
+    "price":"25 грн."
+  },
+  {
+    "name":"Рис",
+    "src":"Images/Garnishes/ris_ovoshi.jpg",
+    "weight":"250 грамм",
+    "description":"Рис с овощами",
+    "price":"20 грн."
+  },
+  {
+    "name":"Паста",
+    "src":"Images/Garnishes/pasta_milano.jpg",
+    "weight":"200 грамм",
+    "description":"Паста с томатным соусом и базиликом",
+    "price":"25 грн."
+  },
+  {
+    "name":"Овощи гриль",
+    "src":"Images/Garnishes/ovoschi_grill.jpg",
+    "weight":"250 грамм",
+    "description":"Цукини, баклажаны, перец болгарский, лук, грибы",
+    "price":"25 грн."
+  }
+
+]

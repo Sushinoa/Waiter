@@ -1,0 +1,37 @@
+[{
+  "name":"Вода",
+  "src":"Images/Drinks/morshinskaya.png",
+  "weight":"330 мл",
+  "description":"Моршинская газированная и негазированная",
+  "price":"25 грн."
+},
+  {
+    "name":"Газированные напитки",
+    "src":"Images/Drinks/pepsi.png",
+    "weight":"1000 мл",
+    "description":"Pepsi, Coca-cola, Sprite, Fanta",
+    "price":"17 грн."
+  },
+  {
+    "name":"Пиво",
+    "src":"Images/Drinks/stella-artua.png",
+    "weight":"500 мл",
+    "description":"Stella Artois",
+    "price":"20 грн."
+  },
+  {
+    "name":"Чай",
+    "src":"Images/Drinks/teablack.jpg",
+    "weight":"250 мл",
+    "description":"Зеленый, черный",
+    "price":"10 грн."
+  },
+  {
+    "name":"Кофе",
+    "src":"Images/Drinks/coffee.jpg",
+    "weight":"200 мл",
+    "description":"Латте, капучино, эспрессо",
+    "price":"12 грн."
+  }
+
+]

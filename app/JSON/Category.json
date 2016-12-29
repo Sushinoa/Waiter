@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Салаты",
+    "src": "Images/Category/salads.jpg",
+    "categoryname": "Salads"
+
+  },
+  {
+    "name": "Мясные блюда",
+    "src": "Images/Category/meat.jpg",
+    "categoryname": "Meat"
+  },
+  {
+    "name": "Гарниры",
+    "src": "Images/Category/garnishes.jpg",
+    "categoryname": "Garnishes"
+  },
+  {
+    "name": "Закуски",
+    "src": "Images/Category/snacks.jpg",
+    "categoryname": "Snacks"
+  },
+  {
+    "name": "Десерты",
+    "src": "Images/Category/desserts.jpg",
+    "categoryname": "Desserts"
+
+  },
+  {
+    "name": "Напитки",
+    "src": "Images/Category/drinks.jpg",
+    "categoryname": "Drinks"
+  }
+]

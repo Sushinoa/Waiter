@@ -1,0 +1,58 @@
+header{
+    background:#3C3C3C;
+    height: 40px;
+}
+
+
+li{
+    list-style: none;
+}
+.all{
+    margin:20px;
+    background: white;
+    border-radius: 5px;
+}
+.category {
+    background: white;
+    border:1px solid lightsteelblue;
+    border-radius: 3px;
+    text-align: center;
+}
+.right{
+    background-image:  url(../Images/backround.jpg);
+    height: 91vh;
+}
+footer{
+    background: #3C3C3C;
+    height: 40px;
+}
+ul{
+    margin-top:25px ;
+}
+
+span{
+    color:white;
+
+}
+.lighter{
+    float: right;
+    margin-top: 20px;
+}
+
+.rounded{
+    border-radius:10px;
+}
+
+
+img.dish~p.dish{
+
+display: none;
+
+}
+
+img.dish:hover~p.dish{
+
+    display: block;
+
+}
+
